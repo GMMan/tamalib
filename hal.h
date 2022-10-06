@@ -20,7 +20,7 @@
 #ifndef _HAL_H_
 #define _HAL_H_
 
-#include "../hal_types.h"
+#include "../../applications/plugins/tamagotchi_p1/hal_types.h"
 
 #ifndef NULL
 	#define NULL 0
